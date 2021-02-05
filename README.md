@@ -5,7 +5,7 @@
 
 This is a Turing front-end project completed by [Jessica Justice](https://github.com/m1073496). The objective of this project is to create a flashcard game playable from the command line by following Test Driven Development best practices.
 
-### Project Board
+## Project Board
 
 To see a completed list of tasks and ideas for future iterations for this project:
 [Project Board](https://github.com/m1073496/flashcards-starter/projects/1)
