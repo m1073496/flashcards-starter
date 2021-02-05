@@ -7,7 +7,8 @@ This is a Turing front-end project completed by [Jessica Justice](https://github
 
 ### Project Board
 
-[flashcards-starter Project Board](https://github.com/m1073496/flashcards-starter/projects/1)
+To see a completed list of tasks and ideas for future iterations for this project:
+[Project Board](https://github.com/m1073496/flashcards-starter/projects/1)
 
 ## The Application
 
