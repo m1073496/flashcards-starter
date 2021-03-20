@@ -11,8 +11,7 @@ The objective of this project was to create a flashcard game, playable from the 
 
 ## Project Board
 
-To see a completed list of tasks and ideas for future iterations for this project:
-[Project Board](https://github.com/m1073496/flashcards-starter/projects/1)
+Visit [this GitHub Project Board](https://github.com/m1073496/flashcards-starter/projects/1) to see a completed list of tasks and ideas for future iterations for this project.
 
 ## The Application
 
