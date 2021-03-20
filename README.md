@@ -1,9 +1,13 @@
-# FlashCards Starter Kit
+# Command Line FlashCards 
+
+A [Front-End Project](https://frontend.turing.io/projects/flash-cards.html) by [Jessica Justice](https://github.com/m1073496)
 
 
-## Abstract
+## Overview
 
-This is a Turing front-end project completed by [Jessica Justice](https://github.com/m1073496). The objective of this project is to create a flashcard game playable from the command line by following Test Driven Development best practices.
+This is a Turing School of Software and Design - Module 2 solo project.
+
+The objective of this project was to create a flashcard game, playable from the command line, by contributing code to a partially construced, object-oriented application, while also following Test Driven Development best practices and implementing ES6 classes.
 
 ## Project Board
 
@@ -12,7 +16,7 @@ To see a completed list of tasks and ideas for future iterations for this projec
 
 ## The Application
 
-The game consists of 30 flashcards that each pose a multiple choice question about the Javascript programming language. The user can type in their answer and recieve immediate feedback. Once they have completed all 30 flashcards, the game will print out the percentage of questions the user answered correctly.
+This game consists of 30 flashcards that each pose a multiple choice question about the JavaScript programming language. The user can type in their answer and recieve immediate feedback. Once they have completed all 30 flashcards, the game will print out the percentage of questions the user answered correctly.
 
 ![](https://media.giphy.com/media/S5cMOZ7a1afMEAlGCk/giphy.gif)
 
