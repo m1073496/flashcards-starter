@@ -1,6 +1,6 @@
 # Command Line FlashCards 
 
-A [Front-End Project](https://frontend.turing.io/projects/flash-cards.html) by [Jessica Justice](https://github.com/m1073496)
+A [Front-End Project](https://frontend.turing.io/projects/flash-cards.html) by [Jessica Justice](https://github.com/m1073496).
 
 
 ## Overview
